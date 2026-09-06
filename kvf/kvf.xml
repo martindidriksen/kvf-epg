@@ -3,35 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260905180000 " stop="20260905190000 " channel="kvf.fo">
-    <title>Anne og Anders í Norðurlondum 4:6</title>
-    <sub-title>- Grønland</sub-title>
-    <desc>Kom við Anne Hjernøe og Anders Agger á ævintýrkenda ferð í Norðurlondum. Anne og Anders koma til Qeqertarsuaq á Diskooynni í rættari tíð. Veitsla er fyri nýggjum skúlanæmingum í fyrsta flokki. Og so vitja tey bæði ferðandi heimsins elstu arktisku granskingarstøð og síggja Grønland, sum á ymiskan hátt er í broyting.</desc>
-  </programme>
-  <programme start="20260905190000 " stop="20260905195000 " channel="kvf.fo">
-    <title>Ongan panikk</title>
-    <sub-title>- danskt undirhald (2:7)</sub-title>
-    <desc>Hvat hendir, tá tú gevur Mia Lyhne eina lødda pistól? Og hvussu klárar Jesper Groth seg við einum skóm við tám í? Í ?Impro? er einki givið frammanundan, og tí kann alt ganga galið, tá fýra stuttligir danir brádliga hava verið ov leingi á innlandsísinum og royna at ræna ein banka í djóragrímum. Luttakarar: Sara Grünewald, Martin Høgsted, Mia Lyhne og Jesper Groth. Vertur: Hadi Ka-Koush. Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
-  </programme>
-  <programme start="20260905195000 " stop="20260905201500 " channel="kvf.fo">
-    <title>Úr savninum: Í luftini við Danny</title>
-    <desc>Í luftini er sjónvarpsrøð við tónleiki og práti úr Kringvarpshøllini. Í sendingini tosa vit við fløguaktuellar tónleikarar, og tey framføra nøkur løg av nýggjastu útgávuni. Hesa ferð er Danny gestur. Sendingin er gjørd í samstarvi við Faroe Music Export.</desc>
-  </programme>
-  <programme start="20260905201500 " stop="20260905215500 " channel="kvf.fo">
-    <title>Norðsjógvurin</title>
-    <sub-title>- norskur filmur frá 2021</sub-title>
-    <desc>Norska oljuævintýrið broytist í stórum, tá ein oljuboripallur knappliga søkkur í Norðsjónum. Norsku granskararnir varnast skjótt, at hetta bara er byrjanin til nakað enn álvarsligari, sum hevur við mongu árini við oljuutvinning at gera. Nú byrjar ein risastór bjarging, og mitt í ruðuleikanum er Sofia (Kristine Kujath Thorp). Hon arbeiðir við framkomnum undirvatnsrobottum og má royna at bjarga sjeikinum, sum er fangaður í einum oyðiløgdum oljuboripalli langt undir havskorpuni. Upprunaheiti:North Sea Framleiðsluár:2021 Aldursmark:11</desc>
-  </programme>
-  <programme start="20260905215500 " stop="20260905223500 " channel="kvf.fo">
-    <title>Villdjórahjarta 1:7</title>
-    <sub-title>- norsk røð frá 2022</sub-title>
-    <desc>Heidi er góð við eitt djór, sum onnur als ikki vilja vita av. Hjá henni fáa særdar dúgvur hjálp, men unnustin er misnøgdur við, at íbúðin er dúgvusjúkrahús. (1:7) Sesong 1. Broadcast Company NRK</desc>
-  </programme>
-  <programme start="20260905223500 " stop="20260906070000 " channel="kvf.fo">
-    <title>Villdjórahjarta 2:7</title>
-    <sub-title>- norsk røð frá 2022</sub-title>
-    <desc>Nýlagdir og hjálparleysir og onga mammu - Sherri hjálpir so nógvum íkornaungum, sum hon kann. Hon heldur als ikki, at avlíving er einasta loysn. (2:7) Sesong 1. Broadcast Company NRK</desc>
-  </programme>
   <programme start="20260906070000 " stop="20260906072200 " channel="kvf.fo">
     <title>MORSA 5</title>
     <sub-title>- føroysk barnarøð frá 2017</sub-title>
@@ -317,8 +288,33 @@
     <sub-title>- amr. spenningsfilmur frá 2010</sub-title>
     <desc>Teir vóru einaferð teir bestu hjá CIA ? nú eru teir jagstraðir. Fyrrverandi superagentarnir hjá CIA ? Frank, Joe, Marvin og Victoria (Bruce Willis, Morgan Freeman, John Malkovich og Helen Mirren) ? eru aftur. Tey verða noydd úr pensjón og eru nú jagstraði av felagsskapinum, sum teir áður arbeiddu fyri. Við deyðiligum fíggindum í hølunum mugu teir taka gomul knep í nýtslu og fara undercover fyri at avdúka myrkastu loyndarmálini hjá CIA. Upprunaheiti: Red Framleiðsluár: 2010</desc>
   </programme>
-  <programme start="20260911224000 " stop="20260911234000 " channel="kvf.fo">
+  <programme start="20260911224000 " stop="20260912180000 " channel="kvf.fo">
     <title>Dagur og vika</title>
     <sub-title>- við teksti</sub-title>
+  </programme>
+  <programme start="20260912180000 " stop="20260912190000 " channel="kvf.fo">
+    <title>Úr savninum: Gylta Gullið 1:5</title>
+    <sub-title>- føroysk dokumentarrøð frá 2013</sub-title>
+    <desc>Ein lýsing av føroysku uppsjóvarvinnuni í brotum, har skift verður millum nóta- og trolveiðina í dag og brot úr søguni hjá hesi vinnu. 1. sending byrjar í 50-unum. Tá varð saltað í tunnur og roynt við gørnum. Vit hoyra um, tá Júst í Túni kom við fyrsta kraftblokkinum til Føroya, Osvald Sivertsen sigur frá. Hann var bestimaður við Júst tá, og seinni við skipunum hjá Eileri Jacobsen. Á makrelveiðu  umborð á Christiani í Grótinum, sum partrolar við Norðborg, sigur Christian Martin Rasmussen frá. Vit hitta eigarar og manning við bátunum hjá "Varðanum". Vit hoyra um Trónd í Gøtu, sum kom í 1987 sum eitt úrslit av nógv umtalaða skipapakkanum hjá Atla Dam, sála og hoyra hann úttala seg um týdningin av størri og meira framkomnum uppsjóvarskipum. Hetta søgdu mong, bert var eitt ævintýr! Lagt til rættis: Zacharias Hammer.</desc>
+  </programme>
+  <programme start="20260912190000 " stop="20260912200000 " channel="kvf.fo">
+    <title>Anne og Anders í Norðurlondum 6:6</title>
+    <sub-title>- Finnland</sub-title>
+    <desc>Kom við Anne Hjernøe og Anders Agger á ævintýrkenda ferð í Norðurlondum. Einaferð fyri nógvum árum síðan vóru tey eitt stórt ríki. Í dag droyma vit aftur um ta norðurlendsku kensluna. Frá innlandsísinum til russiska markið. Anne og Anders eru komin til endan á ferðini. Hon endar í Finnlandi við ljóði av melankolskari sello og smakki av bláberja-vodka.</desc>
+  </programme>
+  <programme start="20260912200000 " stop="20260912205000 " channel="kvf.fo">
+    <title>Ongan panikk</title>
+    <sub-title>- danskt undirhald (3:7)</sub-title>
+    <desc>Hvussu greiðir Ditte Hansen politinum frá, at hon hevur eina kvinnu goymda í bagasjurúminum, og hví rópar Botoft, tá hann fer í panikk? Hadi Ka-Koush roynir at finna høvd og hala á øllum, tá fýra stuttligir danir improvisera seg ígjøgnum sendingina. Framleiðsluár: 2026 Framleitt fyri: TV 2 DANMARK</desc>
+  </programme>
+  <programme start="20260912205000 " stop="20260912224000 " channel="kvf.fo">
+    <title>Lizzie</title>
+    <sub-title>- am. spenningsfilmur frá 2018</sub-title>
+    <desc>Í 1892 livir hin ógifta Lizzie eitt keðiligt lív í Massachusetts undir strangu reglunum hjá pápa sínum. Men alt broytist, tá ið nýggja húsarhaldsfólkið Bridget verður sett. Tær gerast vinkonur, og vinalagið tekur seg upp at gerast eitt loyniligt kærleiksforhold, sum endar við at gerast miðdepilin í eini óndari og blóðugari ætlan. Filmurin byggir á veruligu søguna um Lizzie Borden. Leikarar: Lizzie Borden: Chloë Sevigny. Bridget Sullivan: Kristen Stewart. Andrew Jennings: Jeff Perry Framleiðsluár: 2018 Aldursmark: 15 ár</desc>
+  </programme>
+  <programme start="20260912224000 " stop="20260912234000 " channel="kvf.fo">
+    <title>Villdjórahjarta 3:7</title>
+    <sub-title>- norsk røð frá 2022</sub-title>
+    <desc>Frode fer undir eina óvanliga bjarging, tá eitt svanapar er komið í klemmu. Men ber til at bjarga reiðrinum undan flóðini? (3:7) Sesong 1. Broadcast Company NRK</desc>
   </programme>
 </tv>

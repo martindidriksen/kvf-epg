@@ -3,173 +3,6 @@
   <channel id="dr2.dk">
     <display-name>DR2</display-name>
   </channel>
-  <programme start="20260904232500 +0000" stop="20260905002000 +0000" channel="dr2.dk">
-    <title>Pavarotti - Popstjerne i operaen</title>
-    <desc>"Jeg har bevist, at den klassiske musik ikke tilhører eliten." I 2007 døde verdens største og mest populære operasanger - den italienske tenor Luciano Pavarotti. Hans hjemby tog afsked med manden, som i fire årtier havde erobret alle slags publikummer, overstrålet andre store stemmer og gjort opera tilgængelig for millioner. Men hans succes skabte også misundelse, og medierne beskrev ham som en krævende diva. Alligevel fortsatte Pavarotti med at demokratisere operaen.
-Fransk dokumentar fra 2017.
-(Pavarotti - Birth of a Pop Star)</desc>
-  </programme>
-  <programme start="20260905002000 +0000" stop="20260905011500 +0000" channel="dr2.dk">
-    <title>Kontinenterne (1:6) Afrika</title>
-    <desc>Tysk dokumentarserie fra 2023. 
-(Unsere Kontinente)
-Fra Afrika til Asien og fra Australien til Amerika. Serien udforsker, hvordan kontinentalpladerne og naturen har formet og påvirket vores forskellige kulturer. Første afsnit fokuserer bl.a. på Great Rift Valley i Østafrika, der er kendt som menneskehedens vugge. I Afrika begrænsede kæmpe floder handel og udveksling af ideer, og europæiske kolonialister forandrede kontinentet. Hvilke fremtidige udfordringer står Afrika overfor?</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260905011500 +0000" stop="20260905020000 +0000" channel="dr2.dk">
-    <title>Otte dage, der skabte Rom (3:8) Julius Cæsar går i krig</title>
-    <desc>Britisk dokumentarserie fra 2021.
-(8 Days That Made Rome)
-Han er den mest kendte romer gennem tiden. Udstyret med et knivskarpt intellekt og en stålsat ambition om at drive det vidt. Tag med Bettany Hughes, når hun undersøger en af de mest berømte dage i romersk historie, da Julius Cæsar krydsede floden Rubicon i 49 f.v.t. - i spidsen for sin uovervindelige hær. Et blodigt felttog, der slavegjorte hundredtusinder gallere og sendte ham på direkte kollisionskurs med hans rivaler og republikkens idealer. 
--</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260905020000 +0000" stop="20260905030000 +0000" channel="dr2.dk">
-    <title>Flådens historie (7:7)</title>
-    <desc>Søkort, kold krig og vilde Sørøvere.
-I dette sidste afsnit fortæller Kløvedal bl.a. om Slaget ved Helgoland i 1864 og om sænkningen af den danske flåde i 1943. Tidligere udenrigsminister Uffe Ellemann-Jensen fortæller om sin oplevelse af den Kolde Krig, og hvordan den var tæt på at blive varm. Vi er med, da det moderne krigsskib Absalon hjemvender fra piratjagt i Adenbugten med Kronborg om styrbord, og ombord fortæller Kronprins Frederik om sin store kærlighed til havet.</desc>
-    <episode-num system="xmltv_ns">0.6.0</episode-num>
-  </programme>
-  <programme start="20260905030000 +0000" stop="20260905034500 +0000" channel="dr2.dk">
-    <title>Signe Moldes Roadshow: Spilreklamer og en lille bange hund</title>
-    <desc>Hvad ville du foreslå vores politikere hvis du fik muligheden? Signe Molde styrer slagets gang, når Alex Vanopslagh, Magnus Heunicke og Jakob Engel-Schmidt møder danskerne ansigt til ansigt i en direkte debat om statsstøttet kvindekamp, politikere på udvisningsbænken, et Danmark uden spilreklamer og vores umistelige ret til at sprænge ting i luften nytårsaften!</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260905034500 +0000" stop="20260905040000 +0000" channel="dr2.dk">
-    <title>Tænkepauser: Ro</title>
-    <desc>Ro er lige så vigtigt for dig som rent vand og ren luft. Men hvor finder du ro i en verden, der buldrer og brager? Tag med på en kvindes spændende rejse i roens univers. Ro er blevet en mangelvare, som vi kan købe os til i den moderne verden. Ro er en tilstand, du kan opsøge, og som du kan bede om at få... Roen ligger ikke kun i stilheden - men kan også ligge i en lyd eller en bevægelse, og den hænger sammen med handlinger og rutiner.
-En film af Rikke Louise Schjødt efter en bog af Iben Have.</desc>
-    <episode-num system="xmltv_ns">0.1.0</episode-num>
-  </programme>
-  <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="dr2.dk">
-    <title>Der kan man se (8:16)</title>
-    <desc>Dansk satireserie fra 1996. Det er ved at være jul, og Clausen og Hausgaard viser klip, der peger på de små og store glæder her i livet. Som barn fik Hausgaard et revisorspil, der hed 'Stemmer kassen'. Clausen derimod legede Robin Hood og stjal fra en masse forretninger. Men kun de rige forretninger. Københavneren har også prøvet at få taget fingeraftryk på politistationen - da han havde sendt nogle varer videre for sin fætter.
-Medvirkende: Erik Clausen og Niels Hausgaard.</desc>
-    <episode-num system="xmltv_ns">0.7.0</episode-num>
-  </programme>
-  <programme start="20260905043000 +0000" stop="20260905051500 +0000" channel="dr2.dk">
-    <title>Storbritanniens smukke floder (1:4)</title>
-    <desc>Britisk dokumentarserie fra 2022.
-(Britain's Beautiful Rivers with Richard Hammond)
-Den er Storbritanniens længste flod. Den 354 kilometer lange Severn har formet britisk historie. Tag med Richard Hammond fra flodens udspring i Cambrian Mountains via Ironbridge Gorge til dens rejse ender i Bristol Channel. Undervejs undersøger han, hvordan normannerne brugte floden som grænsepost mellem England og Wales, hører om opførelsen af en af Englands smukkeste katedraler og udforsker det teknologisk kunststykke: The Severn Tunnel.</desc>
-    <episode-num system="xmltv_ns">0.0.0</episode-num>
-  </programme>
-  <programme start="20260905051500 +0000" stop="20260905060000 +0000" channel="dr2.dk">
-    <title>Smagen af Italien (3:6)</title>
-    <desc>Britisk madserie fra 2021.
-(Stanley Tucci: Searching for Italy)
-Den er kendt som et af verdens største mode-mekkaer. Denne gang er Stanley Tucci i Norditaliens største mode-og industriby Milano. Her nyder han den traditionelle aperitivo, møder ostemageren Paolo Ciapparelli, der laver Bitto Storico Ribelle-ost og bliver inspireret til at lave pizzoccheri. Stanleys kone Felicity slutter sig til ham i Como, hvor de indtager den klassiske milanesiske ret kalvekoteletter og risotto.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260905060000 +0000" stop="20260905060500 +0000" channel="dr2.dk">
-    <title>Radioavisen</title>
-    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
-  </programme>
-  <programme start="20260905060500 +0000" stop="20260905063000 +0000" channel="dr2.dk">
-    <title>Morgenandagten</title>
-    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
-    <episode-num system="xmltv_ns">2025.206.0</episode-num>
-  </programme>
-  <programme start="20260905062500 +0000" stop="20260905100000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260905100000 +0000" stop="20260905120000 +0000" channel="dr2.dk">
-    <title>Seneste nyt fra TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260905120000 +0000" stop="20260905123000 +0000" channel="dr2.dk">
-    <title>Tegnsprogsmagasinet Udsyn</title>
-    <desc>For nogle måneder siden, fortalte Camilla og Fredrik her i Udsyn om deres store sorg ved at miste tre børn under graviditeten. På trods af deres tab, har de ikke givet op. De er fast besluttede på at kæmpe, indtil de får et barn - men hvordan kommer de videre?</desc>
-    <episode-num system="xmltv_ns">2025.24.0</episode-num>
-  </programme>
-  <programme start="20260905123000 +0000" stop="20260905130000 +0000" channel="dr2.dk">
-    <title>Der kan man se (9:16)</title>
-    <desc>Dansk satireserie fra 1996. Da temaet om små og store glæder viste sig at være en stor succes, har Hausgaard og Clausen valgt at lave en fortsættelse af temaet - det hedder bare 2'eren. Her kan man høre om ornamentik, T-shirts med tryk og et brandfarligt juleneg. Derudover fortæller Clausen om dengang Anders Fogh og Gert Petersen drilledede hinanden inde på Christiansborg.
-Medvirkende: Erik Clausen og Niels Hausgaard.</desc>
-    <episode-num system="xmltv_ns">0.8.0</episode-num>
-  </programme>
-  <programme start="20260905130000 +0000" stop="20260905142000 +0000" channel="dr2.dk">
-    <title>Vores år (3:4)</title>
-    <desc>Dansk dramaserie fra 1980. Claus Humble skal have en læreplads hos onkel Richard, der har et trykkeri i København. Men typograffaget er truet af den nye teknologi, og en konflikt truer. På Langeland er Anton og Ragna ikke særlig glade for deres nye tilværelse. Det passer dem ikke at være afhængige af byggespekulanten overlæge Horn. Tom kommer også til Langeland, men vil ikke se sine forældre - kun Inge. 
-Medvirkende: John Hahn-Petersen, Merete Voldstedlund, Martin Miehe-Renard, Ove Sprogøe m.fl.
-Manuskript: Klaus Rifbjerg.
-Instruktion: Palle Kjærulff-Schmidt.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260905142000 +0000" stop="20260905150000 +0000" channel="dr2.dk">
-    <title>Hvornår var det nu det var (2:17)</title>
-    <desc>Dansk quizprogram fra 1993. Se med, når Gorm viser klip fra oprydningen af olie på strande i Nordjylland, kong Frederik 9.'s åbning af Hanstholm Havn og den japanske kejser Hirohitos datters borgerlige bryllup. Og slutteligt spørger: Hvornår var det nu, det var?</desc>
-    <episode-num system="xmltv_ns">2.1.0</episode-num>
-  </programme>
-  <programme start="20260905150000 +0000" stop="20260905153500 +0000" channel="dr2.dk">
-    <title>Huset på Christianshavn (33) Operation Mallorca</title>
-    <desc>Dansk komedieserie fra 1973. Fru Olsen skal på afbudsrejse til Mallorca og vil have de andre damer i huset med. Mændene holder krisemøde i Rottehullet, da der ikke er andet end beskidte spanske værtshuse på den ø.
-Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Løwert, Paul Hagen, Ove Sprogøe, Kirsten Walther, Willy Rathnov, Finn Storgaard, Kirsten Hansen-Møller m.fl.
-Manuskript: Karen Smith.</desc>
-    <episode-num system="xmltv_ns">0.32.0</episode-num>
-  </programme>
-  <programme start="20260905153500 +0000" stop="20260905165500 +0000" channel="dr2.dk">
-    <title>At klappe med een hånd</title>
-    <desc>Dansk finurlig kærlighedsfilm fra 2001.
-Da den meget velhavende Erik Svenssons kone dør efter mange års sygeleje, beslutter han at ændre sit liv. Han sælger sin virksomhed og er på vej til Spanien med sin kæreste, som på sigt også skal være hans arving, da han bliver opsøgt af sin advokat med en besked om, at han er far til en voksen datter - og dermed har en tvangsarving. Svensson hyrer bedemanden Anders som chauffør, og de tager til Esbjerg for at møde den mulige datter, Heidi, som bor alene med sin døve datter. Men den hjertelige Heidi lader sig ikke sådan imponere - til gengæld åbner hun både Svenssons og Anders' øjne for nye sider af tilværelsen.
-Medvirkende: 
-Erik Svensson: Jens Okking.
-Anders: Peter Gantzler.
-Heidi: Susanne Juhász.
-Lotte: Michelle Bjørn-Andersen.
-Helene: Ann Eleonora Jørgensen.
-Krøyer: Jesper Christensen.
-m.fl.
-Manuskript: Gert Duve Skovlund, Gert Fredholm og Mikael Olsen.
-Instruktion: Gert Fredholm.
-Foto: Lars Skree.
-Scenografi: Trine Padmo Olsen.
-Musik: Jon Bruland og Ole Arnfred.
-Produktion: Zentropa Entertainments i samarbejde med bl.a. DR.</desc>
-  </programme>
-  <programme start="20260905165500 +0000" stop="20260905175500 +0000" channel="dr2.dk">
-    <title>Husker du... 1989</title>
-    <desc>- året er 1989.
-Om 100 år vil man stadig huske 1989. Jerntæppet smuldrer, Berlinmuren vælter og verden bliver aldrig den samme. I Danmark sker der også forandringer. Vi begynder at danse lambada, springe bungy jump og spille Lotto. Paven taber sin kalot i en vandpyt, og Schlüter påstår at der ikke er fejet noget ind under gulvtæppet. I aftenens program møder vi blandt andet Lars H.U.G. der var med Next Stop Sovjet i Moskva. Vi skal opleve D-A-D og se Fat Boys danse twist på Rådhuspladsen i København. 
-Sendt første gang 11.12.2004</desc>
-    <episode-num system="xmltv_ns">2.9.0</episode-num>
-  </programme>
-  <programme start="20260905175500 +0000" stop="20260905192000 +0000" channel="dr2.dk">
-    <title>Brændende stemme</title>
-    <desc>Brændende stemme følger Tamara, en irakisk-dansk kvinde, mor og aktivist, der fra sit liv i Danmark kæmper mod social kontrol og kvindeundertrykkelse. Drevet af egne erfaringer med vold og tavshed har hun gjort sin stemme til et våben for kvinder uden rettigheder. Samtidig balancerer hun rollen som mor, datter og aktivist, mens hun står over for både trusler og personlige tab.</desc>
-  </programme>
-  <programme start="20260905192000 +0000" stop="20260905200000 +0000" channel="dr2.dk">
-    <title>Galskab: Journal nr. 3072 - Digterens kæreste</title>
-    <desc>En kvinde bliver i 1882 indlagt på et sindssygehospital. Hun er skizofren. I journalen står der at hendes vanvid skyldes kærlighed til en fritænker. Fritænkeren er den store forfatter J.P. Jacobsen. De kunne aldrig få hinanden, fordi hun er dybt religiøs og han er ateist med andre planer. De delte de samme drømme, men hun bliver gal, og han en stor forfatter.
-Tilrettelæggelse: Søs Hoffmann og Lone Leegaard.</desc>
-    <episode-num system="xmltv_ns">0.2.0</episode-num>
-  </programme>
-  <programme start="20260905200000 +0000" stop="20260905201500 +0000" channel="dr2.dk">
-    <title>TVA</title>
-    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
-  </programme>
-  <programme start="20260905201500 +0000" stop="20260905222000 +0000" channel="dr2.dk">
-    <title>Saltburn</title>
-    <desc>Britisk thriller fra 2023.
-Oliver har svært ved at finde sin plads ved universitetet i Oxford. Heldigvis - eller måske desværre - inviterer den sexede, aristokratiske Felix ham med til slægtens enorme, luksuriøse gods. Her holder Felix' excentriske familie og grænseoverskridende venner hof. Det bliver en på alle måder uforglemmelig sommer.
-Medvirkende: Barry Keoghan, Jacob Elordi, Rosemary Pike m.fl.
-Instruktion: Emerald Fennell.</desc>
-  </programme>
-  <programme start="20260905222000 +0000" stop="20260905230500 +0000" channel="dr2.dk">
-    <title>Flugten fra Bolivia (5:6)</title>
-    <desc>Norsk dramaserie fra 2025.
-(Flukten fra Bolivia)
-Ida skjuler sig, mens hun venter på chancen for at flygte. Sammen med lejesoldaten Tommy sætter hun kurs mod grænsen med den norske ambassade i Brasilia som mål. Det bliver en dramatisk og farlig rejse.</desc>
-    <episode-num system="xmltv_ns">0.4.0</episode-num>
-  </programme>
-  <programme start="20260905230500 +0000" stop="20260905235500 +0000" channel="dr2.dk">
-    <title>Flugten fra Bolivia (6:6)</title>
-    <desc>Norsk dramaserie fra 2025.
-(Flukten fra Bolivia)
-Ida skjuler sig i Rio sammen med Tommy. Men planen har budt på uventede problemer. Da hun endelig får en chance for at flygte, er det så farligt, at hun må gøre det alene.</desc>
-    <episode-num system="xmltv_ns">0.5.0</episode-num>
-  </programme>
   <programme start="20260905235500 +0000" stop="20260906004500 +0000" channel="dr2.dk">
     <title>Berlusconi: Fodbold, tv og magt (3:3)</title>
     <desc>Berlusconi undviger nye anklager om korruption og bruger AC Milan til at fremme sine egne interesser. Men skandalerne og konflikterne synes at vokse år for år. Han bestrider valgnederlag, beskyldes for intimidering og sigtes for at have haft kendskab til bestikkelse - alt sammen som et uhyggeligt forspil til de politiske udviklinger, der i de følgende år vil udspille sig over hele verden. Samtidig bliver grænsen mellem fodbold og politik stadig mere udvisket.
@@ -194,6 +27,13 @@ Sataniske ritualer, blod og panik. I 1980 skriver psykiateren Lawrence Pazder og
 (The Wonders of Europe)
 Det har ligget ude i bølgerne i over tusind år. Det unikke bygningskompleks Mont-Saint-Michel har været kloster, fæstning og fængsel og er resultatet af en enestående arkitektonisk saga. Det har været angrebet af bretonerne, belejret af englænderne og været en farlig arbejdsplads. Det er den exceptionelle historie, fuld af gåder og overraskelser, der gør Mont-Saint-Michel til et af Europas mest fascinerende vidundere.</desc>
     <episode-num system="xmltv_ns">2.1.0</episode-num>
+  </programme>
+  <programme start="20260906034000 +0000" stop="20260906040000 +0000" channel="dr2.dk">
+    <title>Mens vi venter på at dø - Graver vi et hul</title>
+    <desc>Med udgangspunkt i udtrykket "vi kan lige så godt have det sjovt, når vi alligevel er her" tager vennerne Jørgen Skouboe og John Dahl ud for at dyrke de små drengedrømme, som ellers så ofte drukner i hverdagens travle fornuftsrutiner. I denne uge er John og Jørgen taget ud for at grave et hul, man kan tænke tanker i. Med sig har de sjove anekdoter, gode øl, fin tobak - og ikke mindst masser af vildt og fascinerende grej, som skal prøves af.
+Værter: Jørgen Skouboe og John Dahl
+Sendt første gang 17.04.11</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
   </programme>
   <programme start="20260906040000 +0000" stop="20260906043000 +0000" channel="dr2.dk">
     <title>Kunstnerkolonien på Bornholm (8:8) - Den store finale</title>
@@ -1015,5 +855,142 @@ Instruktion: Alan J. Pakula.</desc>
 (War Machine - World War II)
 2. Verdenskrig var en kamp om ildkraft. Nationernes skæbne blev afgjort af, hvor stærke våben de havde. Ethvert våben blev udviklet på baggrund af konkrete behov, men også med ét overordnet formål: at vinde kapløbet om det teknologiske herredømme. Fra finmekanikken i håndvåben til kampvognenes panser. Flyvemaskinernes præcision og rækkevidde til krigsskibenes overvældende kraft. Der blev skabt våben, hvis lige aldrig var set.</desc>
     <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260912001000 +0000" stop="20260912004000 +0000" channel="dr2.dk">
+    <title>Danske spioner i den kolde krig (1:4) For rigets sikkerhed</title>
+    <desc>Arne var ansat i Forsvarets Efterretningstjeneste under den kolde krig. Han fortæller om, hvordan tjenesten hentede oplysninger ud af det ekstremt lukkede Sovjetunionen. Mona blev som 30-årig hvervet af tjenesten og kørte til Polen sammen med en erfaren spion.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260912004000 +0000" stop="20260912013500 +0000" channel="dr2.dk">
+    <title>Mysteriet om Bayeux-tapetet</title>
+    <desc>Fransk dokumentar fra 2021.
+(Les Mystères de la Tapisserie de Bayeux)
+En episk beretning om Vilhelm Erobrerens invasion af England i 1066, med kampscener, dyr og skibe. Bayeux-tapetet er noget af et mysterium. Det er slet ikke et tapet, men et utroligt detaljeret broderi på 70 meter, som har overlevet pest og to verdenskrige. Ved hjælp af den nyeste teknologi prøver forskere at afdække Bayeux-tapetets hemmeligheder. Hvilken rolle spiller vikingeskibene i Roskilde? Taler tapetet overhovedet sandt?</desc>
+  </programme>
+  <programme start="20260912013500 +0000" stop="20260912022000 +0000" channel="dr2.dk">
+    <title>Dreyers skygger</title>
+    <desc>Carl Th. Dreyer blev en af verdens største filmskabere. Men vejen dertil havde en høj pris for både Dreyer og hans nærmeste. Helt nye dokumenter og fortællinger fra dem, der kendte ham, kaster lys over, hvordan hans personlige liv prægede mesterværker som "Vampyr", "Vredens Dag" og "Ordet".</desc>
+  </programme>
+  <programme start="20260912022000 +0000" stop="20260912030500 +0000" channel="dr2.dk">
+    <title>Otte dage, der skabte Rom (4:8) Den første kejser</title>
+    <desc>Britisk dokumentarserie fra 2021.
+(8 Days That Made Rome)
+Han er er en af verdenshistoriens største skikkelser. Roms første kejser Augustus. Tag med Bettany Hughes tilbage i tiden til den dag i 32 f.v.t., hvor Cæsars 18-årige grandnevø gav ordre til at Marcus Antonius' testamente skulle stjæles og læses op i senatet - i deres kamp om herredømmet over supermagten Rom. Et afgørende øjeblik, hvor han lagde den 450 år gamle romerske republik i graven og grundlagde et diktatur, som varede i næsten 1500 år.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260912030500 +0000" stop="20260912040000 +0000" channel="dr2.dk">
+    <title>Kontinenterne (2:6) Asien</title>
+    <desc>Tysk dokumentarserie fra 2023. 
+(Unsere Kontinente)
+Asien er et kontinent fuld af ekstremer: det koldeste sted på jorden, den seismisk mest aktive region og med de højeste bjerge. Over fire milliarder mennesker bor i Asien, som af flere kaldes civilisationens vugge. Himalayas monsunregn skaber livliner i form af de mægtige floder Yangtze, Ganges og Mekong. Vandet er perfekt for den plante, der har fremmet menneskelig udvikling: risplanten. Hvordan har naturen formet kulturen på kontinentet?</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260912040000 +0000" stop="20260912043000 +0000" channel="dr2.dk">
+    <title>Der kan man se (9:16)</title>
+    <desc>Dansk satireserie fra 1996. Da temaet om små og store glæder viste sig at være en stor succes, har Hausgaard og Clausen valgt at lave en fortsættelse af temaet - det hedder bare 2'eren. Her kan man høre om ornamentik, T-shirts med tryk og et brandfarligt juleneg. Derudover fortæller Clausen om dengang Anders Fogh og Gert Petersen drilledede hinanden inde på Christiansborg.
+Medvirkende: Erik Clausen og Niels Hausgaard.</desc>
+    <episode-num system="xmltv_ns">0.8.0</episode-num>
+  </programme>
+  <programme start="20260912043000 +0000" stop="20260912051500 +0000" channel="dr2.dk">
+    <title>Storbritanniens smukke floder (2:4)</title>
+    <desc>Britisk dokumentarserie fra 2022.
+(Britain's Beautiful Rivers with Richard Hammond)
+Det er Storbritanniens mest berømte kalkstrøm, floden Test. Et sandt fluefiskerparadis på kun 65 km. Tag med Richard Hammond, når han starter ved udspringet i Hampshire Downs, besøger prisbelønnede ginfabrikanter i Longparish, lærer fluefiskeri ved Stockbridge og går om bord på en utrolig yacht ved vejs ende i Southampton.</desc>
+    <episode-num system="xmltv_ns">0.1.0</episode-num>
+  </programme>
+  <programme start="20260912051500 +0000" stop="20260912060000 +0000" channel="dr2.dk">
+    <title>Smagen af Italien (4:6)</title>
+    <desc>Britisk madserie fra 2021.
+(Stanley Tucci: Searching for Italy)
+Mad, museer og monumenter. Denne gang er Stanley Tucci i den antikke by Rom. Her går han på jagt efter byens fire fantastiske, traditionelle pastaretter; rigatoni all'amatriciana, carbonara, cacio e pepe og spaghetti alla gricia. Han smager på nogle af områdets lokale svinepølser og berømte oste som pecorino. Indtager et festmåltid baseret på kødaffald og lærer at lave en af hans livretter; stegte artiskokker.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260912060000 +0000" stop="20260912060500 +0000" channel="dr2.dk">
+    <title>Radioavisen</title>
+    <desc>Bliv opdateret på de seneste nyheder fra ind- og udland.</desc>
+  </programme>
+  <programme start="20260912060500 +0000" stop="20260912063000 +0000" channel="dr2.dk">
+    <title>Morgenandagten</title>
+    <desc>Morgenandagten fra Vor Frue Kirke, Københavns Domkirke.</desc>
+  </programme>
+  <programme start="20260912063000 +0000" stop="20260912100000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260912100000 +0000" stop="20260912120000 +0000" channel="dr2.dk">
+    <title>Seneste nyt fra TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260912120000 +0000" stop="20260912123000 +0000" channel="dr2.dk">
+    <title>Tegnsprogsmagasinet Udsyn</title>
+    <desc>Et magasinprogram på tegnsprog, der zoomer ind på døves liv i en hørende verden. Og fortæller om det, der rører sig i tiden, sætter spørgsmål til debat og skildrer det nære og det sære.</desc>
+    <episode-num system="xmltv_ns">2025.25.0</episode-num>
+  </programme>
+  <programme start="20260912123000 +0000" stop="20260912124500 +0000" channel="dr2.dk">
+    <title>Der kan man se (10:16)</title>
+    <desc>Dansk satireserie fra 1997. På med vanten. Sådan lyder årets første tema hos Hausgaard og Clausen, der er klar til nye udfordringer. Københavneren bidrager med en tragisk, men også sjov Århus-historie om madpakker, mens nordjyden kommer med en spøgefuldhed om Grauballemanden.
+Medvirkende: Erik Clausen og Niels Hausgaard.</desc>
+    <episode-num system="xmltv_ns">0.9.0</episode-num>
+  </programme>
+  <programme start="20260912125000 +0000" stop="20260912143000 +0000" channel="dr2.dk">
+    <title>Vores år (4:4)</title>
+    <desc>Dansk dramaserie fra 1980. Et tiår er næsten gået, og trådene samles på Langeland. Familien Humble fejrer Antons mors fødselsdag. Toms band skal spille koncert, Richard vil sælge sit sommerhus, og Inge vil flytte hjemmefra. Nogle er gået bort, nogle går fra hinanden, og for nogle går livet ned ad bakke. Kvinderne vælger at leve deres eget liv - måske er mændene på vej til en lignende frihed?
+Medvirkende: John Hahn-Petersen, Merete Voldstedlund, Martin Miehe-Renard, Ove Sprogøe m.fl.
+Manuskript: Klaus Rifbjerg.
+Instruktion: Palle Kjærulff-Schmidt.</desc>
+    <episode-num system="xmltv_ns">0.3.0</episode-num>
+  </programme>
+  <programme start="20260912143000 +0000" stop="20260912150500 +0000" channel="dr2.dk">
+    <title>Hvornår var det nu det var (3:17)</title>
+    <desc>Dansk quizprogram fra 1993. De spændende klip fra DR's arkiver inkluderer bogtyveri fra Det Kongelige Bibliotek, Feltmarskal Montgomery på besøg i Danmark og offentliggørelsen af en ny dansk tikrone i denne udgave af årstalslegen.</desc>
+    <episode-num system="xmltv_ns">2.2.0</episode-num>
+  </programme>
+  <programme start="20260912150500 +0000" stop="20260912153500 +0000" channel="dr2.dk">
+    <title>Huset på Christianshavn (34) Men Emma hun spår</title>
+    <desc>Dansk komedieserie fra 1973. Mens damerne er på Mallorca, fester mændene på Christianshavn. Og i Rottehullet er Emma begyndt at spå. Olsen, Clausen og Egon ender oppe hos Larsen, der har besøg af en flok unge damer fra en trampolintrup.
+Medvirkende: Helle Virkner, Poul Reichhardt, Bodil Udsen, Arthur Jensen, Lis Løwert, Paul Hagen, Ove Sprogøe, Kirsten Walther, Willy Rathnov, Finn Storgaard, Kirsten Hansen-Møller m.fl.
+Manuskript: Leif Panduro.</desc>
+    <episode-num system="xmltv_ns">0.33.0</episode-num>
+  </programme>
+  <programme start="20260912153500 +0000" stop="20260912171000 +0000" channel="dr2.dk">
+    <title>Slingrevalsen</title>
+    <desc>Dansk komediedrama fra 1981.
+En gruppe mennesker, som alle er omkring de fyrre, har midt i livet gjort en del erfaringer med kærligheden og det at leve sammen. Men åbenbart er de ikke blevet klogere. De slingrer fortsat...   
+Medvirkende: Solbjørg Højfeldt, Kurt Dreyer, Ole Ernst, Anne-Stine Lier, Nikolaj Harris, Claus Nissen, Ulf Pilgård, Lisbeth Lundquist, Ove Sprogøe m.fl.
+Instruktion: Esben Høilund Carlsen.</desc>
+  </programme>
+  <programme start="20260912171000 +0000" stop="20260912180000 +0000" channel="dr2.dk">
+    <title>Husker du... 1990</title>
+    <desc>Nu tager Husker du... på et nyt årti. Første program i denne omgang handler om1990. Årtiet starter optimistisk. Den kolde krig er slut og Apartheid afskaffes, men inden 1990 er omme spiller Saddam Hussein hasard med verdensfreden og udenlandske gidsler, heriblandt 34 danske, bliver tilbageholdt i Irak. Da truslen om atomragnarok er væk, begynder danskerne at fokusere på de nære ting som miljøet og familien. Ord som drivhusgasser og genanvendelighed kommer højt på dagsordenen - Det er fandme uhyggeligt du! 
+Sendt første gang 12.02.06.</desc>
+  </programme>
+  <programme start="20260912180000 +0000" stop="20260912193000 +0000" channel="dr2.dk">
+    <title>Terrorangrebet, der ændrede verden</title>
+    <desc>Den 11. september 2001 startede som en smuk solskinsmorgen, men endte i forvirring og rædsel. Gennem sjældne lydklip og private optagelser fra civile newyorkere, beredskabstjenester og luftartskontrollen tegnes her et mere nuanceret billede af angrebene på World Trade Center. 
+Dokumentarfilm fra 2021.
+(9/11: Life Under Attack)
+(Dokumania)</desc>
+  </programme>
+  <programme start="20260912193000 +0000" stop="20260912200000 +0000" channel="dr2.dk">
+    <title>En hemmelighed under jorden (1:5) Min fars dobbeltliv</title>
+    <desc>I et almindeligt udseende hus i Rold Skov vokser Niels-Peder op i 1980´erne. Uden at vide at huset og hans far dækker over en dyb hemmelighed. Samtidig siger hjemmeværnsmanden Poul Erik ja til en opgave, som får betydning for resten af hans liv.</desc>
+    <episode-num system="xmltv_ns">0.0.0</episode-num>
+  </programme>
+  <programme start="20260912200000 +0000" stop="20260912201500 +0000" channel="dr2.dk">
+    <title>TVA</title>
+    <desc>TV Avisen (TVA) giver dig overblik over dagens vigtigste nyheder fra Danmark og verden omkring os. Få indblik og perspektiv på de største begivenheder og historier.</desc>
+  </programme>
+  <programme start="20260912222000 +0000" stop="20260912235500 +0000" channel="dr2.dk">
+    <title>Shame</title>
+    <desc>Prisbelønnet britisk drama fra 2011.
+Brandon bor i New York, arbejder på kontor - og er ude af stand til at styre sit sexliv. Han forfører dagligt nye kvinder og er storforbruger af porno både hjemme og på arbejdet, indtil hans hjemløse søster Sissy flytter ind, og det går op for Brandon, at der måske er en årsag til deres selvdestruktive adfærd.
+Medvirkende: Michael Fassbender, Carey Mulligan, James Badge Dale m.fl.
+Instruktion: Steve McQueen.</desc>
+  </programme>
+  <programme start="20260912235500 +0000" stop="20260913013500 +0000" channel="dr2.dk">
+    <title>Total tillid - Kinas masseovervågning</title>
+    <desc>De er udsat for ekstrem overvågning. To kinesiske familier og en journalist kæmper mod landets overvågningsteknologi, magtmisbrug og censur. Kom med ind i det kinesiske overvågningssamfund. En skræmmende fortælling om big data, ansigtsgenkendelse og et uhyggeligt pointsystem, hvor borgere kan optjene og miste point alt efter deres opførsel og bidrag til samfundet. Når dette er nutiden, hvordan ser vores fremtid så ud? (Dokumania)
+Prisvindende dokumentar 2023.
+(Total Trust)</desc>
   </programme>
 </tv>
