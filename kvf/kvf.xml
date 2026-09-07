@@ -3,89 +3,6 @@
   <channel id="kvf.fo">
     <display-name>KVF</display-name>
   </channel>
-  <programme start="20260906070000 " stop="20260906072200 " channel="kvf.fo">
-    <title>MORSA 5</title>
-    <sub-title>- føroysk barnarøð frá 2017</sub-title>
-  </programme>
-  <programme start="20260906072200 " stop="20260906075300 " channel="kvf.fo">
-    <title>Vinus og Vimús 4:10</title>
-    <sub-title>- Vinusmaðurin og Vimúsmúsin, før.barnasending frá 2024</sub-title>
-    <desc>Vinus og Vimús 4.partur 3.umfar: Vimús sigur undarlig ljóð, og Vinus hevur eitt stórt reytt klæði, og so verður Vinus til VinusMaður og Vimús verður til VimúsMús. Og so dugir Vinus eisini at klippa maskur, hvønn lit skulu tær hava. Tá ið bókin dettur er tað um nøkur skrímsl, og tað er eisini ein góð bók. Og tá ið Vinus hevur hug at spæla ein góðan sang, klívur Vinurin inn gjøgnum vindeygað, og hevur eina nokk so stóra lítlutrummu við. Teir fara at syngja um eina gentu, sum eitur Karin. Smáteknifilmarnir eru aftur við. Og so sigur Vimús alt tað, sum Vinus skal tekna. Og so siga vit: Góðan morgun dag gott kvøld góða nátt ? og farvæl! At brúka til kappaspælið: Klæði ella ein dúk. Pappír. Saks. Lastikk.</desc>
-  </programme>
-  <programme start="20260906075300 " stop="20260906082000 " channel="kvf.fo">
-    <title>Alt um djór</title>
-    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
-  </programme>
-  <programme start="20260906082000 " stop="20260906084800 " channel="kvf.fo">
-    <title>Snipp snapp</title>
-    <sub-title>- føroysk sending til børn</sub-title>
-    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld, til nýggi jólakalendarin Snæfall 2 byrjar í desembur. Í Snipp Snapp eru eisini 11 spildurnýggir partar av Labbaliðnum.</desc>
-  </programme>
-  <programme start="20260906084800 " stop="20260906091700 " channel="kvf.fo">
-    <title>Mumi 18</title>
-    <sub-title>- teknirøð til smábørn</sub-title>
-  </programme>
-  <programme start="20260906091700 " stop="20260906100000 " channel="kvf.fo">
-    <title>MORSA 6</title>
-    <sub-title>- føroysk barnarøð frá 2017</sub-title>
-  </programme>
-  <programme start="20260906100000 " stop="20260906150000 " channel="kvf.fo">
-    <title>Guðstænasta úr Fuglafjarða kirkju</title>
-    <sub-title>- Gerhard Jónsson Mikkelsen, prestur, prædikar</sub-title>
-  </programme>
-  <programme start="20260906150000 " stop="20260906161000 " channel="kvf.fo">
-    <title>Guðstænasta úr Fuglafjarða kirkju</title>
-    <sub-title>- Gerhard Jónsson Mikkelsen, prestur, prædikar</sub-title>
-  </programme>
-  <programme start="20260906161000 " stop="20260906164500 " channel="kvf.fo">
-    <title>Fiskimenn 4:8</title>
-    <sub-title>- síðsti túrur í summar, norsk røð frá 2022</sub-title>
-    <desc>Makreltíðin er um at vera av, og Geir og Jarand stríðast við at náa málið. Eftir fleiri vikur heimanífrá veksur longsilin eftir unnustu og barni. (4:8) Sesong 1. Broadcast Company NRK Nummar 4:8</desc>
-  </programme>
-  <programme start="20260906164500 " stop="20260906173000 " channel="kvf.fo">
-    <title>Vit drukna í óruddi</title>
-    <sub-title>- donsk sendirøð (2:8)</sub-title>
-    <desc>Mark hevur ábyrgdina av upprudding, tí Thyra vegna sjúku ofta ikki er før fyri at taka sær av hesum. Thyra hevur ment skipanir, men tað er Mark, sum skal fáa tær at virka í einum strongdum gerandisdegi. Óruddi veksur, og familjan kann hvørki hava gestir ella hava børn á vitjan at spæla. Nú skulu loysnir finnast, sum hóska til Mark, um heim og familja í Bagsværd skulu hanga saman. Upprunaheiti: Vi drukner i rod Framleiðsluár: 2026</desc>
-  </programme>
-  <programme start="20260906173000 " stop="20260906180000 " channel="kvf.fo">
-    <title>Á ferð við Lars Monsen: Femunden 3:6</title>
-    <sub-title>- norsk røð frá 2005</sub-title>
-    <desc>Um summarið sleppur hundurin Kayaque á ferð við Lars.  Kayaque er ein alaska malamute, ov tungur at renna í hundatoyminum, men óføra raskur at bera. Ferðin gongur - við kano - um Noregs triðstørsta vatn, Femunden og niðan Røavassdraget. Sesong 2.</desc>
-  </programme>
-  <programme start="20260906180000 " stop="20260906182500 " channel="kvf.fo">
-    <title>Á ferð við Lars Monsen: Femundsmarka 4:6</title>
-    <sub-title>- norsk røð frá 2005</sub-title>
-    <desc>Lars og hundurin Kayaque halda fram inn í Femundsmarka fram við Rogen vatni og Mugga á. Hann møtir einum løgnum manni við revolvara, sum hevur sin egna hátt at vinna á á eini stórgeddu.  Sesong 2. Broadcast Company NRK.</desc>
-  </programme>
-  <programme start="20260906182500 " stop="20260906183500 " channel="kvf.fo">
-    <title>Andakt</title>
-    <sub-title>- Jastrid á Dul Sørensen</sub-title>
-  </programme>
-  <programme start="20260906183500 " stop="20260906191500 " channel="kvf.fo">
-    <title>Úr savninum: Kendir føroyingar: Sámal Joensen-Mikines 2:2</title>
-    <sub-title>- føroyskur dokumentarur frá 2018</sub-title>
-    <desc>Mikines flutti aftur til Føroyar eftir seinna heimsbardaga. Ákærurnar um tilknýtið til danska nasistaflokkin tóku honum fast, og hann kom í eina djúpa kreppu. Tað var ikki fyrr enn hann flutti aftur til Keypmannahavnar tíðliga í 195o´unum, at hann fann stevið aftur. Hann giftist fyri aðru ferð, og donsku ummælarnir hildu hesi árini, at ongin kundi kappast við hann um dramatikk og lit. Ógvisliga misnýtslan av nervamedisini og rúsdrekka fingu tó alt størri ávirkan á hann. Tá Mikines kom fyri eini druknivanlukku á Bornholm í 1969, broyttist hann. Síðstu tíggju árini av lívinum sat hann ofta avbyrgdur á sinnisjúkrahúsi. Mikines andaðist í Keypmannahavn í 1979. Lagt til rættis: Ivan Hentze Niclasen. Fotograferað og klipt: Hans Petur Hansen.</desc>
-  </programme>
-  <programme start="20260906191500 " stop="20260906203500 " channel="kvf.fo">
-    <title>Eitt lív fyri Noreg</title>
-    <sub-title>- norsk dokumentar frá 2026</sub-title>
-    <desc>Sum barn flýddi hann undan kríggi. Sum ungur maður stríddist hann fyri kærleikanum. Sum kongur førdi hann kongshúsið inn í okkara tíð. Tað er eitt lív fyri Noreg, sum nú er av. Framleitt: NRK Ár: 2026</desc>
-  </programme>
-  <programme start="20260906203500 " stop="20260906210000 " channel="kvf.fo">
-    <title>Mammurnar í harðskapsins skugga 1:7</title>
-    <sub-title>- svensk dokumentarraðsending frá 2022</sub-title>
-    <desc>Tað var sum lívið slóknaði tað kvøldið. Vit hitta mammurnar, sum hava upplivað tað ringasta - at missa barnið, ti onkur hevur myrt tað. Mammurnar tosa um deyðan, sorgina og missin, men eisini um kærleikan. Ein dokumentarrøð eftir Alexandru Pascalidou.</desc>
-  </programme>
-  <programme start="20260906210000 " stop="20260906213500 " channel="kvf.fo">
-    <title>Mammurnar í harðskapsins skugga 2:7</title>
-    <sub-title>- svensk dokumentarrøð frá 2022</sub-title>
-    <desc>Á ferð í USA - tá er tað, telefonin ringir. Vit hitta mammurnar, sum hava upplivað tað ringasta - at missa eitt barn, ein mordari hevur tikið lívið av tí. Mammurnar tosa um deyðan, sorgina og missin, men eisini um kærleikan og hetta at orka víðari í lívinum.</desc>
-  </programme>
-  <programme start="20260906213500 " stop="20260907170000 " channel="kvf.fo">
-    <title>Sweet Country</title>
-    <sub-title>- australskt westerndrama frá 2017</sub-title>
-    <desc>Avstralia í 1929. Tá miðaldrandi upprunaavstraliarin Sam (Hamilton Morris) drepur ein hvítan mann í sjálvverju, verður hann eftirlýstur fyri morð og noyddur at flýggja út í oyðimørkina við familju síni. Tó er løgreglan í hølunum á honum, leiðari er tann ágrýtni sersjanturin Fletcher (Bryan Brown). Men sum veruligu smálutirnir í drápinum spakuliga koma fram, fara heimamenn at ivast í, um rættvísi veruliga hevur sigrað. Við eru: Sam Kelly: Hamilton Morris, Fred Smith: Sam Neill og Sergeant Fletcher: Bryan Brown. Harafturat eru:  Lucy: Shanika Cole. Harry March: Ewen Leslie. Mick Kennedy: Thomas M. Wright. Archie: Gibson John. Handrit: David Tranter og Steven McGregor. Leikstj.: Warwick Thornton. Framl.ár:2017 Aldursmark:15</desc>
-  </programme>
   <programme start="20260907170000 " stop="20260907173000 " channel="kvf.fo">
     <title>MORSA 6</title>
     <sub-title>- føroysk barnarøð frá 2017</sub-title>
@@ -312,9 +229,96 @@
     <sub-title>- am. spenningsfilmur frá 2018</sub-title>
     <desc>Í 1892 livir hin ógifta Lizzie eitt keðiligt lív í Massachusetts undir strangu reglunum hjá pápa sínum. Men alt broytist, tá ið nýggja húsarhaldsfólkið Bridget verður sett. Tær gerast vinkonur, og vinalagið tekur seg upp at gerast eitt loyniligt kærleiksforhold, sum endar við at gerast miðdepilin í eini óndari og blóðugari ætlan. Filmurin byggir á veruligu søguna um Lizzie Borden. Leikarar: Lizzie Borden: Chloë Sevigny. Bridget Sullivan: Kristen Stewart. Andrew Jennings: Jeff Perry Framleiðsluár: 2018 Aldursmark: 15 ár</desc>
   </programme>
-  <programme start="20260912224000 " stop="20260912234000 " channel="kvf.fo">
+  <programme start="20260912224000 " stop="20260913070000 " channel="kvf.fo">
     <title>Villdjórahjarta 3:7</title>
     <sub-title>- norsk røð frá 2022</sub-title>
     <desc>Frode fer undir eina óvanliga bjarging, tá eitt svanapar er komið í klemmu. Men ber til at bjarga reiðrinum undan flóðini? (3:7) Sesong 1. Broadcast Company NRK</desc>
+  </programme>
+  <programme start="20260913070000 " stop="20260913072500 " channel="kvf.fo">
+    <title>MORSA 6</title>
+    <sub-title>- føroysk barnarøð frá 2017</sub-title>
+  </programme>
+  <programme start="20260913072500 " stop="20260913075000 " channel="kvf.fo">
+    <title>Vinus og Vimús 5:10</title>
+    <sub-title>- plástur á og so hvørvur tað, før.barnasending frá 2024</sub-title>
+    <desc>Vinus og Vimús 5. partur 3.umfar: Vinus er bara inni í dag, tí hann er eitt sindur forkølaður, og so fer Vimús at ugga hann. Vitja hann og geva honum saft. Men tað er ikki gott at hyggja ov nær, tí knappliga fær Vimús ilt í nøsina og má hava plástur á. Og so dettur bókin um sutturnar hjá Valdimari á gólv. Tað er ein góð bók at ugga seg við. Sangurin er um at balla ein fingulinguling. Og tá Vinus fær hug at spæla og syngja sangin, kemur Vinurin við einum nýggjum ljóðføri. Og áðrenn Vinus fer at tekna, lærir Vimús hann, hvussu reyðu bikørini kunnu hvørva. At enda er bert eftir at siga: Góðan morgun dag gott kvøld góða nátt ? og farvæl! At brúka til hvørvigandin: 4 bikør. 3 pappír.</desc>
+  </programme>
+  <programme start="20260913075000 " stop="20260913075500 " channel="kvf.fo">
+    <title>Brævkassin - Jazzygold og løgmaður</title>
+    <sub-title>- fø. sending til tey ungu</sub-title>
+  </programme>
+  <programme start="20260913075500 " stop="20260913082300 " channel="kvf.fo">
+    <title>Alt um djór</title>
+    <sub-title>- barnarøð frá BBC við føroyskari talu</sub-title>
+  </programme>
+  <programme start="20260913082300 " stop="20260913085200 " channel="kvf.fo">
+    <title>Snipp snapp</title>
+    <sub-title>- føroysk sending til børn</sub-title>
+    <desc>VIT hava verið í Fuglafjarðar skúla og filmað 11 nýggjar Snipp Snapp-sendingar. Børn, sum ganga í 2. flokki í Fuglafjarðar skúla eru vertir hvørt mikukvøld, til nýggi jólakalendarin Snæfall 2 byrjar í desembur. Í Snipp Snapp eru eisini 11 spildurnýggir partar av Labbaliðnum.</desc>
+  </programme>
+  <programme start="20260913085200 " stop="20260913092100 " channel="kvf.fo">
+    <title>Mumi 19</title>
+    <sub-title>- teknirøð við føroyskari talu til smábørn</sub-title>
+  </programme>
+  <programme start="20260913092100 " stop="20260913100000 " channel="kvf.fo">
+    <title>MORSA 7</title>
+    <sub-title>- føroysk barnarøð frá 2017</sub-title>
+  </programme>
+  <programme start="20260913100000 " stop="20260913150000 " channel="kvf.fo">
+    <title>Guðstænasta úr Dals kirkju</title>
+    <sub-title>- Havstein Klein, prestur, prædikar</sub-title>
+  </programme>
+  <programme start="20260913150000 " stop="20260913161000 " channel="kvf.fo">
+    <title>Guðstænasta úr Dals kirkju</title>
+    <sub-title>- Havstein Klein, prestur, prædikar</sub-title>
+  </programme>
+  <programme start="20260913161000 " stop="20260913164500 " channel="kvf.fo">
+    <title>Fiskimenn 5:8</title>
+    <sub-title>- tað er ikki alt gull, ið glitrar. Norsk røð frá 2022</sub-title>
+    <desc>Heystið er góð fiskitíð til ávís fiskasløg. Men ein ungur fiskimaður hevur yvirtikið tann gamla bátin hjá Geir og gerst nýggjur kappingarneyti hjá Geir og Jarand. (5:8) Sesong 1. Broadcast Company NRK Partur 5:8</desc>
+  </programme>
+  <programme start="20260913164500 " stop="20260913172500 " channel="kvf.fo">
+    <title>Vit drukna í óruddi</title>
+    <sub-title>- donsk sendirøð (3:8)</sub-title>
+    <desc>Anita býr einsamøll í húsinum í Sakskøbing, sum gjøgnum árini er vorðið fylt upp. Tað, sum einaferð var savningarstaðið hjá familjuni, er í dag vorðið trupult at vera í. Nú skal ruddast, um Anita aftur skal kunna lata hurðina upp og varðveita tætt samband við familjuna. Upprunaheiti: Vi drukner i rod Framleiðsluár: 2026</desc>
+  </programme>
+  <programme start="20260913172500 " stop="20260913175500 " channel="kvf.fo">
+    <title>Á ferð við Lars Monsen: Finnmarksvidda 5:6</title>
+    <sub-title>- norsk røð frá 2005</sub-title>
+    <desc>Lars og hundurin Kayaque ferðast ta 35 míl longu ferðina yvir Finnmarksvidda. Teir fylgja gomlu postrutuni til Stabbursdalen nasjonalpark. Sesong 2.</desc>
+  </programme>
+  <programme start="20260913175500 " stop="20260913182500 " channel="kvf.fo">
+    <title>Á ferð við Lars Monsen: 6:6</title>
+    <sub-title>- norsk røð frá 2005</sub-title>
+    <desc>Lars og Kayaque halda fram yvir Finnmarksvidda til Smørfjordeid og síðan til Bringnes, har hevur verið offurstaður í eldri samiskari tíð.  Sesong 2. Broadcast Company NRK.</desc>
+  </programme>
+  <programme start="20260913182500 " stop="20260913183500 " channel="kvf.fo">
+    <title>Andakt</title>
+    <sub-title>- Christian Gabrielsen</sub-title>
+  </programme>
+  <programme start="20260913183500 " stop="20260913192500 " channel="kvf.fo">
+    <title>40 ár síðani fólkaatkvøðuna</title>
+    <sub-title>- føroysk sending frá 1986</sub-title>
+    <desc>14. september vóru 40 ár síðani fólkaatkvøðuna í 1946. Í sendingini verður hugt at politisku hendingunum áðrenn fólkaatkvøðuna og gongdina aftaná. Samrøður eru við fólk, sum vóru við í stríðnum um annaðhvørt loysing ella framhaldandi samband við Danmark.</desc>
+  </programme>
+  <programme start="20260913192500 " stop="20260913201000 " channel="kvf.fo">
+    <title>Úr savninum: Sornfelli í søguna</title>
+    <sub-title>- føroysk sending frá 2006</sub-title>
+    <desc>Á nýggjárinum 2006 varð radarstøðin á Sornfelli sløkt, og við henni endaði eitt søguligt tíðarskeið. Føroyingar vóru alt annað enn fegnir um at gerast partur av kalda krígnum millum stórveldini, men høvdu onga ávirkan, tí heimastýrislógin segði, at uttanríkis- og verjumál vóru donsk. Serliga vóru tað sjálvstýrisflokkarnir, ið mótmæltu, og seinni er komið fram, at danir fingu avsláttur í verjuútreiðslum á danskari jørð afturfyri NATO støðirnar í Føroyum. Støðirnar í Mjørkadali og á Sornfelli vóru bygdar, og danir skiltu, at í Føroyum ráddi um at vera so lítið sjónligir sum gjørligt. Tí var ikki loyvt at ganga í hermannabúna uttan fyri støðina. Her vóru heilt aðrar reglur galdandi enn í Danmark, men tað vistu nakrir ungir sersjantar ikki, fyrrenn teir stóðu á skrivstovuni hjá ovastanum í Mjørkadali og fingu eina skolu fyri at hava ferðast til Føroya við Tjaldrinum í eyðkennisbúna. Sendingina gjørdu: Bogi Godtfred og Rúni Friis Kjær.</desc>
+  </programme>
+  <programme start="20260913201000 " stop="20260913213500 " channel="kvf.fo">
+    <title>Nýggi kongur Noregs</title>
+    <sub-title>- norsk dokumentar frá 2026</sub-title>
+    <desc>Hann ivaðist um starvið, hann var føddur til. So gjørdi hann lagnuna til sítt egna val og fór leiðir, sum eingin kongligur hevði gingið fyrr. Hann er nýggi kongur Noregs. Framleitt: NRK Ár: 2026</desc>
+  </programme>
+  <programme start="20260913213500 " stop="20260913220500 " channel="kvf.fo">
+    <title>Mammurnar í harðskapsins skugga 3:7</title>
+    <sub-title>- svensk dokumentarrøð frá 2022</sub-title>
+    <desc>Sorgin flytir við. Vit megnaðu ikki at leggja hana afturum. Vit hitta mammurnar, sum hava upplivað tað ringasta - at missa eitt barn, ein mordari hevur tikið lívið av tí. Mammurnar tosa um deyðan, sorgina og missin, men eisini um kærleikan og hetta at megna at stríða seg víðari í lívinum.</desc>
+  </programme>
+  <programme start="20260913220500 " stop="20260913230500 " channel="kvf.fo">
+    <title>Mammurnar í harðskapsins skugga 4:7</title>
+    <sub-title>- svensk dokumentarrøð frá 2022</sub-title>
+    <desc>Eingin hevur sett seg í samband við meg og spurt, um eg havi hjálp fyri neyðini. Dokumentarrøð eftir Alexandru Pascalidou. Hvar er samfelagið, tá mest brúk er fyri tí? Hvønn stuðul fáa mammurnar, sum hava mist? Vit hitta mammurnar, sum hava upplivað tað ringasta - at missa eitt barn, ein mordari hevur tikið lívið av tí. Mammurnar tosa um deyðan, sorgina og missin, men eisini um kærleikan og hetta at megna at stríða seg víðari í lívinum.</desc>
   </programme>
 </tv>

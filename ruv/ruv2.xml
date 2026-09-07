@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260906183500 +0000" stop="20260906204000 +0000" channel="ruv2.is">
-    <title>Ítalía - Bandaríkin</title>
-    <desc>Leikir á HM kvenna í körfubolta.
-
-Leikur Ítalíu og Bandaríkjanna á HM kvenna í körfubolta.</desc>
-  </programme>
-  <programme start="20260906203700 +0000" stop="20260906205700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260907183500 +0000" stop="20260907204000 +0000" channel="ruv2.is">
     <title>Bandaríkin - Tékkland</title>
     <desc>Leikir á HM kvenna í körfubolta.
@@ -95,5 +85,15 @@ Leikur í undanúrslitum á HM kvenna í körfubolta.</desc>
     <desc>Leikir á HM kvenna í körfubolta.
 
 Leikur í undanúrslitum á HM kvenna í körfubolta.</desc>
+  </programme>
+  <programme start="20260913175000 +0000" stop="20260913203000 +0000" channel="ruv2.is">
+    <title>Úrslitaleikur</title>
+    <desc>Leikir á HM kvenna í körfubolta.
+
+Úrslitaleikur á HM kvenna í körfubolta.</desc>
+  </programme>
+  <programme start="20260913203000 +0000" stop="20260913205000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
 </tv>
