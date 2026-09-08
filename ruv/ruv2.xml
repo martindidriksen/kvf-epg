@@ -3,16 +3,6 @@
   <channel id="ruv2.is">
     <display-name>RÚV 2</display-name>
   </channel>
-  <programme start="20260907183500 +0000" stop="20260907204000 +0000" channel="ruv2.is">
-    <title>Bandaríkin - Tékkland</title>
-    <desc>Leikir á HM kvenna í körfubolta.
-
-Leikur Bandaríkjanna og Tékklands á HM kvenna í körfubolta.</desc>
-  </programme>
-  <programme start="20260907204000 +0000" stop="20260907210700 +0000" channel="ruv2.is">
-    <title>Fréttir (með táknmálstúlkun)</title>
-    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
-  </programme>
   <programme start="20260908173500 +0000" stop="20260908194000 +0000" channel="ruv2.is">
     <title>Umspil</title>
     <desc>Leikir á HM kvenna í körfubolta.
@@ -63,7 +53,7 @@ Leikur í 8-liða úrslitum á HM kvenna í körfubolta.</desc>
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
-  <programme start="20260911215000 +0000" stop="20260911224000 +0000" channel="ruv2.is">
+  <programme start="20260911215000 +0000" stop="20260911224100 +0000" channel="ruv2.is">
     <title>Vitjanir (with English subtitles)</title>
     <sub-title>(7 af 8)</sub-title>
     <desc>Icelandic drama series about Kristín, an emergency doctor who moves with her teenage daughter back to her parents' home in a small fishing village, following her own husband's affair. Kristín, who is grounded and rational, quickly realises she is out of her comfort zone communicating with her mother, a medium, and finds herself forced to look the ghosts of her past directly in the eye. Director: Eva Sigurðardóttir. Starring: Sara Dögg Ásgeirsdóttir, Helga E. Jónsdóttir, Katla Njálsdóttir, and Jói Jóhannsson. Not suitable for young children.
@@ -93,6 +83,10 @@ Leikur í undanúrslitum á HM kvenna í körfubolta.</desc>
 Úrslitaleikur á HM kvenna í körfubolta.</desc>
   </programme>
   <programme start="20260913203000 +0000" stop="20260913205000 +0000" channel="ruv2.is">
+    <title>Fréttir (með táknmálstúlkun)</title>
+    <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
+  </programme>
+  <programme start="20260914190000 +0000" stop="20260914192700 +0000" channel="ruv2.is">
     <title>Fréttir (með táknmálstúlkun)</title>
     <desc>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.</desc>
   </programme>
